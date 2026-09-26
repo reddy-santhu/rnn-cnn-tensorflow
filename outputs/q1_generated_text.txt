@@ -1,0 +1,31 @@
+Q1 text generation
+Seed: ' know Caius Marcius is chief enemy to th'
+
+Temperature 0.5
+ know Caius Marcius is chief enemy to their ghat thor gheand and the and wor cord are ene wous wald ing is thon ather hath and to core the af herear andarith the ghars,
+And ithe hove fome ane ant the gore the or the res cithers, hath, ke the cor coald the fore the croust the garesth as wor ste nour to noure, thecers th
+
+Temperature 1.0
+ know Caius Marcius is chief enemy to theveid athe wo',
+And of heod nas avpom siel weof'd yous. Chalg thead,
+wig ther, Word fisstader: ke Vaardat is anavelse thoud diss
+Thacet is yulil.
+
+MANUIA:S:
+Whheger tha kf
+egiindid,
+it sore atre, tour; ath ar biss theneser hakt withand,
+
+Sattre thutiner.
+Athe nuchos, ghothor; sot
+
+Temperature 1.5
+ know Caius Marcius is chief enemy to they? I Irel yof Wheean efdobf.
+MDAttoU,'L
+O ugoed-'wivont VBeigsR.
+Ar yoj
+srou gatil ehllw; roor; f'a'k'ds, se eMvorsibunove cits
+Thaait is,nw iig nk, we iy oucolked tha lo
+ggockeuGaatoank? Naute.
+Tourd Rto Vo aorn, Yours? Ciedxesding: re oduvt;
+thuwober', wip; y?.Nenh crout: sorn

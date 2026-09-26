@@ -1,0 +1,26 @@
+Q3 convolution feature maps
+
+Stride = 1, Padding = VALID
+Output shape: (3, 3)
+      0.0      0.0      0.0
+      0.0      0.0      0.0
+      0.0      0.0      0.0
+
+Stride = 1, Padding = SAME
+Output shape: (5, 5)
+      4.0      3.0      2.0      1.0     -6.0
+     -5.0      0.0      0.0      0.0    -11.0
+    -10.0      0.0      0.0      0.0    -16.0
+    -15.0      0.0      0.0      0.0    -21.0
+    -46.0    -27.0    -28.0    -29.0    -56.0
+
+Stride = 2, Padding = VALID
+Output shape: (2, 2)
+      0.0      0.0
+      0.0      0.0
+
+Stride = 2, Padding = SAME
+Output shape: (3, 3)
+      4.0      2.0     -6.0
+    -10.0      0.0    -16.0
+    -46.0    -28.0    -56.0
